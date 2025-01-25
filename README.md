@@ -1,8 +1,10 @@
 # Intilligent-Thermal-Mangement-System-For-EV
 This is My Course Project of Embedded System Design Subject 
 
-The Intelligent Thermal Management System for EV (Electric Vehicle) project focuses on optimizing the thermal behavior of critical EV components,
-such as batteries and motors, to enhance performance and safety. Using an ESP32 microcontroller, this system intelligently monitors temperature 
-via sensors and controls cooling mechanisms like fans or heat sinks. Embedded C programming is employed to implement efficient algorithms for
-real-time decision-making. The system reduces the risk of overheating, ensures energy-efficient thermal regulation, and prolongs the lifespan of EV components. 
-This project integrates IoT capabilities for remote monitoring and control, showcasing advancements in sustainable EV technologies.
+Project Name:- Intelligent Thermal Management System for EV
+
+Problem Statement:- To optimize the thermal behavior of EV components like batteries and motors, enhancing their performance, safety, and longevity.
+
+How I Solved It:- Designed a system using an ESP32 microcontroller to monitor temperatures via sensors and control cooling mechanisms. Implemented real-time decision-making algorithms in Embedded C to ensure efficient thermal regulation and prevent overheating.
+
+Technology Used:- ESP32, sensors, Embedded C, and IoT for remote monitoring and control, emphasizing sustainable and energy-efficient EV technologies.
